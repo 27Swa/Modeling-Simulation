@@ -1,0 +1,159 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lenovo\\Downloads\\MultiQueueSimulation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DDFA5358-863E-412D-9664-910A4864BE94}|MultiQueueSimulation\\MultiQueueSimulation.csproj|c:\\users\\lenovo\\downloads\\multiqueuesimulation\\multiqueuesimulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDFA5358-863E-412D-9664-910A4864BE94}|MultiQueueSimulation\\MultiQueueSimulation.csproj|solutionrelative:multiqueuesimulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDFA5358-863E-412D-9664-910A4864BE94}|MultiQueueSimulation\\MultiQueueSimulation.csproj|c:\\users\\lenovo\\downloads\\multiqueuesimulation\\multiqueuesimulation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DDFA5358-863E-412D-9664-910A4864BE94}|MultiQueueSimulation\\MultiQueueSimulation.csproj|solutionrelative:multiqueuesimulation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA31BE33-5807-4E11-8716-C5ED9C14B3BB}|MultiQueueModels\\MultiQueueModels.csproj|c:\\users\\lenovo\\downloads\\multiqueuesimulation\\multiqueuemodels\\timedistribution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA31BE33-5807-4E11-8716-C5ED9C14B3BB}|MultiQueueModels\\MultiQueueModels.csproj|solutionrelative:multiqueuemodels\\timedistribution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA31BE33-5807-4E11-8716-C5ED9C14B3BB}|MultiQueueModels\\MultiQueueModels.csproj|c:\\users\\lenovo\\downloads\\multiqueuesimulation\\multiqueuemodels\\simulationsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA31BE33-5807-4E11-8716-C5ED9C14B3BB}|MultiQueueModels\\MultiQueueModels.csproj|solutionrelative:multiqueuemodels\\simulationsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA31BE33-5807-4E11-8716-C5ED9C14B3BB}|MultiQueueModels\\MultiQueueModels.csproj|c:\\users\\lenovo\\downloads\\multiqueuesimulation\\multiqueuemodels\\performancemeasures.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA31BE33-5807-4E11-8716-C5ED9C14B3BB}|MultiQueueModels\\MultiQueueModels.csproj|solutionrelative:multiqueuemodels\\performancemeasures.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA31BE33-5807-4E11-8716-C5ED9C14B3BB}|MultiQueueModels\\MultiQueueModels.csproj|c:\\users\\lenovo\\downloads\\multiqueuesimulation\\multiqueuemodels\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA31BE33-5807-4E11-8716-C5ED9C14B3BB}|MultiQueueModels\\MultiQueueModels.csproj|solutionrelative:multiqueuemodels\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA31BE33-5807-4E11-8716-C5ED9C14B3BB}|MultiQueueModels\\MultiQueueModels.csproj|c:\\users\\lenovo\\downloads\\multiqueuesimulation\\multiqueuemodels\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA31BE33-5807-4E11-8716-C5ED9C14B3BB}|MultiQueueModels\\MultiQueueModels.csproj|solutionrelative:multiqueuemodels\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA31BE33-5807-4E11-8716-C5ED9C14B3BB}|MultiQueueModels\\MultiQueueModels.csproj|c:\\users\\lenovo\\downloads\\multiqueuesimulation\\multiqueuemodels\\simulationcase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA31BE33-5807-4E11-8716-C5ED9C14B3BB}|MultiQueueModels\\MultiQueueModels.csproj|solutionrelative:multiqueuemodels\\simulationcase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Downloads\\MultiQueueSimulation\\MultiQueueSimulation\\Form1.cs",
+              "RelativeDocumentMoniker": "MultiQueueSimulation\\Form1.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Downloads\\MultiQueueSimulation\\MultiQueueSimulation\\Form1.cs [Design]",
+              "RelativeToolTip": "MultiQueueSimulation\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T12:50:26.023Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TimeDistribution.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Downloads\\MultiQueueSimulation\\MultiQueueModels\\TimeDistribution.cs",
+              "RelativeDocumentMoniker": "MultiQueueModels\\TimeDistribution.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Downloads\\MultiQueueSimulation\\MultiQueueModels\\TimeDistribution.cs",
+              "RelativeToolTip": "MultiQueueModels\\TimeDistribution.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T12:50:15.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SimulationSystem.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Downloads\\MultiQueueSimulation\\MultiQueueModels\\SimulationSystem.cs",
+              "RelativeDocumentMoniker": "MultiQueueModels\\SimulationSystem.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Downloads\\MultiQueueSimulation\\MultiQueueModels\\SimulationSystem.cs",
+              "RelativeToolTip": "MultiQueueModels\\SimulationSystem.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA3wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T12:50:11.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PerformanceMeasures.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Downloads\\MultiQueueSimulation\\MultiQueueModels\\PerformanceMeasures.cs",
+              "RelativeDocumentMoniker": "MultiQueueModels\\PerformanceMeasures.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Downloads\\MultiQueueSimulation\\MultiQueueModels\\PerformanceMeasures.cs",
+              "RelativeToolTip": "MultiQueueModels\\PerformanceMeasures.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T12:50:09.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Enums.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Downloads\\MultiQueueSimulation\\MultiQueueModels\\Enums.cs",
+              "RelativeDocumentMoniker": "MultiQueueModels\\Enums.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Downloads\\MultiQueueSimulation\\MultiQueueModels\\Enums.cs",
+              "RelativeToolTip": "MultiQueueModels\\Enums.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T12:50:07.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Server.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Downloads\\MultiQueueSimulation\\MultiQueueModels\\Server.cs",
+              "RelativeDocumentMoniker": "MultiQueueModels\\Server.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Downloads\\MultiQueueSimulation\\MultiQueueModels\\Server.cs",
+              "RelativeToolTip": "MultiQueueModels\\Server.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T12:50:01.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SimulationCase.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Downloads\\MultiQueueSimulation\\MultiQueueModels\\SimulationCase.cs",
+              "RelativeDocumentMoniker": "MultiQueueModels\\SimulationCase.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Downloads\\MultiQueueSimulation\\MultiQueueModels\\SimulationCase.cs",
+              "RelativeToolTip": "MultiQueueModels\\SimulationCase.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T12:49:58.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Downloads\\MultiQueueSimulation\\MultiQueueSimulation\\Program.cs",
+              "RelativeDocumentMoniker": "MultiQueueSimulation\\Program.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Downloads\\MultiQueueSimulation\\MultiQueueSimulation\\Program.cs",
+              "RelativeToolTip": "MultiQueueSimulation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T12:49:36.07Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

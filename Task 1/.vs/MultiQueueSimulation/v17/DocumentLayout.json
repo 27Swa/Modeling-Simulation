@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sondo\\Documents\\Modeling-and-Simulation\\Task 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA31BE33-5807-4E11-8716-C5ED9C14B3BB}|MultiQueueModels\\MultiQueueModels.csproj|c:\\users\\sondo\\documents\\modeling-and-simulation\\task 1\\multiqueuemodels\\simulationsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA31BE33-5807-4E11-8716-C5ED9C14B3BB}|MultiQueueModels\\MultiQueueModels.csproj|solutionrelative:multiqueuemodels\\simulationsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA31BE33-5807-4E11-8716-C5ED9C14B3BB}|MultiQueueModels\\MultiQueueModels.csproj|C:\\Users\\sondo\\Documents\\Modeling-and-Simulation\\Task 1\\multiqueuemodels\\timedistribution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA31BE33-5807-4E11-8716-C5ED9C14B3BB}|MultiQueueModels\\MultiQueueModels.csproj|solutionrelative:multiqueuemodels\\timedistribution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1140,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TimeDistribution.cs",
+              "DocumentMoniker": "C:\\Users\\sondo\\Documents\\Modeling-and-Simulation\\Task 1\\MultiQueueModels\\TimeDistribution.cs",
+              "RelativeDocumentMoniker": "MultiQueueModels\\TimeDistribution.cs",
+              "ToolTip": "C:\\Users\\sondo\\Documents\\Modeling-and-Simulation\\Task 1\\MultiQueueModels\\TimeDistribution.cs",
+              "RelativeToolTip": "MultiQueueModels\\TimeDistribution.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T15:03:45.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SimulationSystem.cs",
+              "DocumentMoniker": "C:\\Users\\sondo\\Documents\\Modeling-and-Simulation\\Task 1\\MultiQueueModels\\SimulationSystem.cs",
+              "RelativeDocumentMoniker": "MultiQueueModels\\SimulationSystem.cs",
+              "ToolTip": "C:\\Users\\sondo\\Documents\\Modeling-and-Simulation\\Task 1\\MultiQueueModels\\SimulationSystem.cs",
+              "RelativeToolTip": "MultiQueueModels\\SimulationSystem.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAIwDQAAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T11:59:33.437Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
