@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sondo\\Documents\\Modeling-Simulation\\project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{876512C2-9C0D-4437-BE69-7E4526A7DFFC}|project\\project.csproj|c:\\users\\sondo\\documents\\modeling-simulation\\project\\project\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{876512C2-9C0D-4437-BE69-7E4526A7DFFC}|project\\project.csproj|solutionrelative:project\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{876512C2-9C0D-4437-BE69-7E4526A7DFFC}|project\\project.csproj|c:\\users\\sondo\\documents\\modeling-simulation\\project\\project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{876512C2-9C0D-4437-BE69-7E4526A7DFFC}|project\\project.csproj|solutionrelative:project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{876512C2-9C0D-4437-BE69-7E4526A7DFFC}|project\\project.csproj|c:\\users\\sondo\\documents\\modeling-simulation\\project\\project\\algorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{876512C2-9C0D-4437-BE69-7E4526A7DFFC}|project\\project.csproj|solutionrelative:project\\algorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{876512C2-9C0D-4437-BE69-7E4526A7DFFC}|project\\project.csproj|c:\\users\\sondo\\documents\\modeling-simulation\\project\\project\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{876512C2-9C0D-4437-BE69-7E4526A7DFFC}|project\\project.csproj|solutionrelative:project\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{876512C2-9C0D-4437-BE69-7E4526A7DFFC}|project\\project.csproj|c:\\users\\sondo\\documents\\modeling-simulation\\project\\project\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{876512C2-9C0D-4437-BE69-7E4526A7DFFC}|project\\project.csproj|solutionrelative:project\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\sondo\\Documents\\Modeling-Simulation\\project\\project\\Form1.cs",
+              "RelativeDocumentMoniker": "project\\Form1.cs",
+              "ToolTip": "C:\\Users\\sondo\\Documents\\Modeling-Simulation\\project\\project\\Form1.cs",
+              "RelativeToolTip": "project\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T20:52:27.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Algorithm.cs",
+              "DocumentMoniker": "C:\\Users\\sondo\\Documents\\Modeling-Simulation\\project\\project\\Algorithm.cs",
+              "RelativeDocumentMoniker": "project\\Algorithm.cs",
+              "ToolTip": "C:\\Users\\sondo\\Documents\\Modeling-Simulation\\project\\project\\Algorithm.cs",
+              "RelativeToolTip": "project\\Algorithm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T20:49:40.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\sondo\\Documents\\Modeling-Simulation\\project\\project\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "project\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\sondo\\Documents\\Modeling-Simulation\\project\\project\\Form1.Designer.cs",
+              "RelativeToolTip": "project\\Form1.Designer.cs",
+              "ViewState": "AgIAAJsAAAAAAAAAAAAUwLEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T20:45:39.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sondo\\Documents\\Modeling-Simulation\\project\\project\\Program.cs",
+              "RelativeDocumentMoniker": "project\\Program.cs",
+              "ToolTip": "C:\\Users\\sondo\\Documents\\Modeling-Simulation\\project\\project\\Program.cs",
+              "RelativeToolTip": "project\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T20:45:00.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\sondo\\Documents\\Modeling-Simulation\\project\\project\\Form1.cs",
+              "RelativeDocumentMoniker": "project\\Form1.cs",
+              "ToolTip": "C:\\Users\\sondo\\Documents\\Modeling-Simulation\\project\\project\\Form1.cs [Design]",
+              "RelativeToolTip": "project\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T20:31:16.115Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
